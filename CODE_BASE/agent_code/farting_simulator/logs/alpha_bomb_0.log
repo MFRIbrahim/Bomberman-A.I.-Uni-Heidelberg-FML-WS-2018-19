@@ -1,0 +1,1354 @@
+2019-03-14 11:28:20,590 [alpha_bomb_0_wrapper] INFO: Import agent code from "agent_code/alpha_bomb/callbacks.py"
+2019-03-14 11:28:20,926 [alpha_bomb_0_wrapper] INFO: Initialize agent code
+2019-03-14 11:28:20,926 [alpha_bomb_0_code] INFO: alphabomb joined the game :)
+2019-03-14 11:28:21,374 [alpha_bomb_0_wrapper] INFO: STARTING ROUND #1
+2019-03-14 11:28:21,576 [alpha_bomb_0_wrapper] INFO: STARTING STEP 1
+2019-03-14 11:28:21,597 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.021s of thinking
+2019-03-14 11:28:21,776 [alpha_bomb_0_wrapper] INFO: STARTING STEP 2
+2019-03-14 11:28:21,780 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-14 11:28:21,976 [alpha_bomb_0_wrapper] INFO: STARTING STEP 3
+2019-03-14 11:28:21,979 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:28:22,177 [alpha_bomb_0_wrapper] INFO: STARTING STEP 4
+2019-03-14 11:28:22,193 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.016s of thinking
+2019-03-14 11:28:22,377 [alpha_bomb_0_wrapper] INFO: STARTING STEP 5
+2019-03-14 11:28:22,380 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-14 11:28:22,577 [alpha_bomb_0_wrapper] INFO: STARTING STEP 6
+2019-03-14 11:28:22,580 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:28:22,777 [alpha_bomb_0_wrapper] INFO: STARTING STEP 7
+2019-03-14 11:28:22,780 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-14 11:28:22,977 [alpha_bomb_0_wrapper] INFO: STARTING STEP 8
+2019-03-14 11:28:23,064 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:28:23,178 [alpha_bomb_0_wrapper] INFO: STARTING STEP 9
+2019-03-14 11:28:23,180 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-14 11:28:23,378 [alpha_bomb_0_wrapper] INFO: STARTING STEP 10
+2019-03-14 11:28:23,383 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:28:23,578 [alpha_bomb_0_wrapper] INFO: STARTING STEP 11
+2019-03-14 11:28:23,581 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:28:23,781 [alpha_bomb_0_wrapper] INFO: STARTING STEP 12
+2019-03-14 11:28:23,784 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-14 11:28:23,979 [alpha_bomb_0_wrapper] INFO: STARTING STEP 13
+2019-03-14 11:28:23,981 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-14 11:28:24,179 [alpha_bomb_0_wrapper] INFO: STARTING STEP 14
+2019-03-14 11:28:24,181 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:28:24,379 [alpha_bomb_0_wrapper] INFO: STARTING STEP 15
+2019-03-14 11:28:24,382 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:28:24,579 [alpha_bomb_0_wrapper] INFO: STARTING STEP 16
+2019-03-14 11:28:24,582 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-14 11:28:24,780 [alpha_bomb_0_wrapper] INFO: STARTING STEP 17
+2019-03-14 11:28:24,787 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.008s of thinking
+2019-03-14 11:28:24,980 [alpha_bomb_0_wrapper] INFO: STARTING STEP 18
+2019-03-14 11:28:24,983 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-14 11:28:25,180 [alpha_bomb_0_wrapper] INFO: STARTING STEP 19
+2019-03-14 11:28:25,187 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.007s of thinking
+2019-03-14 11:28:25,383 [alpha_bomb_0_wrapper] INFO: STARTING STEP 20
+2019-03-14 11:28:25,389 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-14 11:28:25,581 [alpha_bomb_0_wrapper] INFO: STARTING STEP 21
+2019-03-14 11:28:25,583 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:28:25,781 [alpha_bomb_0_wrapper] INFO: STARTING STEP 22
+2019-03-14 11:28:25,784 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-14 11:28:25,982 [alpha_bomb_0_wrapper] INFO: STARTING STEP 23
+2019-03-14 11:28:25,985 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-14 11:28:26,182 [alpha_bomb_0_wrapper] INFO: STARTING STEP 24
+2019-03-14 11:28:26,185 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:28:26,383 [alpha_bomb_0_wrapper] INFO: STARTING STEP 25
+2019-03-14 11:28:26,385 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-14 11:28:26,583 [alpha_bomb_0_wrapper] INFO: STARTING STEP 26
+2019-03-14 11:28:26,587 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-14 11:28:26,783 [alpha_bomb_0_wrapper] INFO: STARTING STEP 27
+2019-03-14 11:28:26,786 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-14 11:28:26,983 [alpha_bomb_0_wrapper] INFO: STARTING STEP 28
+2019-03-14 11:28:26,987 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-14 11:28:27,183 [alpha_bomb_0_wrapper] INFO: STARTING STEP 29
+2019-03-14 11:28:27,186 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:28:27,384 [alpha_bomb_0_wrapper] INFO: STARTING STEP 30
+2019-03-14 11:28:27,386 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:28:27,584 [alpha_bomb_0_wrapper] INFO: STARTING STEP 31
+2019-03-14 11:28:27,589 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-14 11:28:27,784 [alpha_bomb_0_wrapper] INFO: STARTING STEP 32
+2019-03-14 11:28:27,787 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:28:27,984 [alpha_bomb_0_wrapper] INFO: STARTING STEP 33
+2019-03-14 11:28:27,995 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:28:28,184 [alpha_bomb_0_wrapper] INFO: STARTING STEP 34
+2019-03-14 11:28:28,187 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:28:28,385 [alpha_bomb_0_wrapper] INFO: STARTING STEP 35
+2019-03-14 11:28:28,395 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.010s of thinking
+2019-03-14 11:28:28,585 [alpha_bomb_0_wrapper] INFO: STARTING STEP 36
+2019-03-14 11:28:28,588 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-14 11:28:28,785 [alpha_bomb_0_wrapper] INFO: STARTING STEP 37
+2019-03-14 11:28:28,790 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-03-14 11:28:28,985 [alpha_bomb_0_wrapper] INFO: STARTING STEP 38
+2019-03-14 11:28:28,988 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-14 11:28:29,186 [alpha_bomb_0_wrapper] INFO: STARTING STEP 39
+2019-03-14 11:28:29,190 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-14 11:28:29,387 [alpha_bomb_0_wrapper] INFO: STARTING STEP 40
+2019-03-14 11:28:29,395 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.007s of thinking
+2019-03-14 11:28:29,587 [alpha_bomb_0_wrapper] INFO: STARTING STEP 41
+2019-03-14 11:28:29,597 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.009s of thinking
+2019-03-14 11:28:29,788 [alpha_bomb_0_wrapper] INFO: STARTING STEP 42
+2019-03-14 11:28:29,796 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.008s of thinking
+2019-03-14 11:28:29,989 [alpha_bomb_0_wrapper] INFO: STARTING STEP 43
+2019-03-14 11:28:29,992 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-14 11:28:30,189 [alpha_bomb_0_wrapper] INFO: STARTING STEP 44
+2019-03-14 11:28:30,193 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-14 11:28:30,389 [alpha_bomb_0_wrapper] INFO: STARTING STEP 45
+2019-03-14 11:28:30,396 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-14 11:28:30,589 [alpha_bomb_0_wrapper] INFO: STARTING STEP 46
+2019-03-14 11:28:30,596 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.007s of thinking
+2019-03-14 11:28:30,790 [alpha_bomb_0_wrapper] INFO: STARTING STEP 47
+2019-03-14 11:28:30,793 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:28:30,990 [alpha_bomb_0_wrapper] INFO: STARTING STEP 48
+2019-03-14 11:28:31,000 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.010s of thinking
+2019-03-14 11:28:31,190 [alpha_bomb_0_wrapper] INFO: STARTING STEP 49
+2019-03-14 11:28:31,196 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-14 11:28:31,390 [alpha_bomb_0_wrapper] INFO: STARTING STEP 50
+2019-03-14 11:28:31,398 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.008s of thinking
+2019-03-14 11:28:31,591 [alpha_bomb_0_wrapper] INFO: STARTING STEP 51
+2019-03-14 11:28:31,607 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.016s of thinking
+2019-03-14 11:28:31,791 [alpha_bomb_0_wrapper] INFO: STARTING STEP 52
+2019-03-14 11:28:31,796 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-14 11:28:31,992 [alpha_bomb_0_wrapper] INFO: STARTING STEP 53
+2019-03-14 11:28:31,996 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-14 11:28:32,192 [alpha_bomb_0_wrapper] INFO: STARTING STEP 54
+2019-03-14 11:28:32,198 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-14 11:28:32,392 [alpha_bomb_0_wrapper] INFO: STARTING STEP 55
+2019-03-14 11:28:32,398 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-14 11:28:32,592 [alpha_bomb_0_wrapper] INFO: STARTING STEP 56
+2019-03-14 11:28:32,599 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-14 11:28:32,792 [alpha_bomb_0_wrapper] INFO: STARTING STEP 57
+2019-03-14 11:28:32,795 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:28:32,993 [alpha_bomb_0_wrapper] INFO: STARTING STEP 58
+2019-03-14 11:28:33,007 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.010s of thinking
+2019-03-14 11:28:33,194 [alpha_bomb_0_wrapper] INFO: STARTING STEP 59
+2019-03-14 11:28:33,202 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.008s of thinking
+2019-03-14 11:28:33,394 [alpha_bomb_0_wrapper] INFO: STARTING STEP 60
+2019-03-14 11:28:33,400 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:28:33,594 [alpha_bomb_0_wrapper] INFO: STARTING STEP 61
+2019-03-14 11:28:33,597 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:28:33,794 [alpha_bomb_0_wrapper] INFO: STARTING STEP 62
+2019-03-14 11:28:33,797 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:28:33,995 [alpha_bomb_0_wrapper] INFO: STARTING STEP 63
+2019-03-14 11:28:34,000 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:28:34,196 [alpha_bomb_0_wrapper] INFO: STARTING STEP 64
+2019-03-14 11:28:34,218 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.022s of thinking
+2019-03-14 11:28:34,395 [alpha_bomb_0_wrapper] INFO: STARTING STEP 65
+2019-03-14 11:28:34,401 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-14 11:28:34,595 [alpha_bomb_0_wrapper] INFO: STARTING STEP 66
+2019-03-14 11:28:34,599 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:28:34,796 [alpha_bomb_0_wrapper] INFO: STARTING STEP 67
+2019-03-14 11:28:34,801 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-14 11:28:34,996 [alpha_bomb_0_wrapper] INFO: STARTING STEP 68
+2019-03-14 11:28:35,000 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-14 11:28:35,196 [alpha_bomb_0_wrapper] INFO: STARTING STEP 69
+2019-03-14 11:28:35,199 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:28:35,397 [alpha_bomb_0_wrapper] INFO: STARTING STEP 70
+2019-03-14 11:28:35,400 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:28:35,597 [alpha_bomb_0_wrapper] INFO: STARTING STEP 71
+2019-03-14 11:28:35,602 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-14 11:28:35,797 [alpha_bomb_0_wrapper] INFO: STARTING STEP 72
+2019-03-14 11:28:35,803 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:28:35,998 [alpha_bomb_0_wrapper] INFO: STARTING STEP 73
+2019-03-14 11:28:36,006 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.008s of thinking
+2019-03-14 11:28:36,199 [alpha_bomb_0_wrapper] INFO: STARTING STEP 74
+2019-03-14 11:28:36,204 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-14 11:28:36,399 [alpha_bomb_0_wrapper] INFO: STARTING STEP 75
+2019-03-14 11:28:36,418 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.019s of thinking
+2019-03-14 11:28:36,599 [alpha_bomb_0_wrapper] INFO: STARTING STEP 76
+2019-03-14 11:28:36,605 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-14 11:28:36,799 [alpha_bomb_0_wrapper] INFO: STARTING STEP 77
+2019-03-14 11:28:36,804 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-14 11:28:36,999 [alpha_bomb_0_wrapper] INFO: STARTING STEP 78
+2019-03-14 11:28:37,009 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.009s of thinking
+2019-03-14 11:28:37,202 [alpha_bomb_0_wrapper] INFO: STARTING STEP 79
+2019-03-14 11:28:37,218 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.016s of thinking
+2019-03-14 11:28:37,402 [alpha_bomb_0_wrapper] INFO: STARTING STEP 80
+2019-03-14 11:28:37,409 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.007s of thinking
+2019-03-14 11:28:37,602 [alpha_bomb_0_wrapper] INFO: STARTING STEP 81
+2019-03-14 11:28:37,605 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:28:37,802 [alpha_bomb_0_wrapper] INFO: STARTING STEP 82
+2019-03-14 11:28:37,805 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:28:38,002 [alpha_bomb_0_wrapper] INFO: STARTING STEP 83
+2019-03-14 11:28:38,005 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:28:38,204 [alpha_bomb_0_wrapper] INFO: STARTING STEP 84
+2019-03-14 11:28:38,207 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:28:38,404 [alpha_bomb_0_wrapper] INFO: STARTING STEP 85
+2019-03-14 11:28:38,407 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:28:38,604 [alpha_bomb_0_wrapper] INFO: STARTING STEP 86
+2019-03-14 11:28:38,607 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:28:38,804 [alpha_bomb_0_wrapper] INFO: STARTING STEP 87
+2019-03-14 11:28:38,807 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:28:39,005 [alpha_bomb_0_wrapper] INFO: STARTING STEP 88
+2019-03-14 11:28:39,007 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:28:39,207 [alpha_bomb_0_wrapper] INFO: STARTING STEP 89
+2019-03-14 11:28:39,209 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:28:39,407 [alpha_bomb_0_wrapper] INFO: STARTING STEP 90
+2019-03-14 11:28:39,409 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:28:39,607 [alpha_bomb_0_wrapper] INFO: STARTING STEP 91
+2019-03-14 11:28:39,610 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:28:39,807 [alpha_bomb_0_wrapper] INFO: STARTING STEP 92
+2019-03-14 11:28:39,812 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:28:40,007 [alpha_bomb_0_wrapper] INFO: STARTING STEP 93
+2019-03-14 11:28:40,010 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:28:40,207 [alpha_bomb_0_wrapper] INFO: STARTING STEP 94
+2019-03-14 11:28:40,214 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-14 11:28:40,408 [alpha_bomb_0_wrapper] INFO: STARTING STEP 95
+2019-03-14 11:28:40,412 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-14 11:28:40,608 [alpha_bomb_0_wrapper] INFO: STARTING STEP 96
+2019-03-14 11:28:40,616 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.008s of thinking
+2019-03-14 11:28:40,808 [alpha_bomb_0_wrapper] INFO: STARTING STEP 97
+2019-03-14 11:28:40,814 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-14 11:28:41,008 [alpha_bomb_0_wrapper] INFO: STARTING STEP 98
+2019-03-14 11:28:41,013 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-14 11:28:41,209 [alpha_bomb_0_wrapper] INFO: STARTING STEP 99
+2019-03-14 11:28:41,214 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-14 11:28:41,409 [alpha_bomb_0_wrapper] INFO: STARTING STEP 100
+2019-03-14 11:28:41,412 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:28:41,609 [alpha_bomb_0_wrapper] INFO: STARTING STEP 101
+2019-03-14 11:28:41,616 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-14 11:28:41,809 [alpha_bomb_0_wrapper] INFO: STARTING STEP 102
+2019-03-14 11:28:41,813 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-14 11:28:42,010 [alpha_bomb_0_wrapper] INFO: STARTING STEP 103
+2019-03-14 11:28:42,012 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-14 11:28:42,211 [alpha_bomb_0_wrapper] INFO: STARTING STEP 104
+2019-03-14 11:28:42,219 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.008s of thinking
+2019-03-14 11:28:42,411 [alpha_bomb_0_wrapper] INFO: STARTING STEP 105
+2019-03-14 11:28:42,419 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.007s of thinking
+2019-03-14 11:28:42,612 [alpha_bomb_0_wrapper] INFO: STARTING STEP 106
+2019-03-14 11:28:42,614 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:28:42,812 [alpha_bomb_0_wrapper] INFO: STARTING STEP 107
+2019-03-14 11:28:42,814 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:28:43,012 [alpha_bomb_0_wrapper] INFO: STARTING STEP 108
+2019-03-14 11:28:43,023 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-14 11:28:43,212 [alpha_bomb_0_wrapper] INFO: STARTING STEP 109
+2019-03-14 11:28:43,232 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.019s of thinking
+2019-03-14 11:28:43,412 [alpha_bomb_0_wrapper] INFO: STARTING STEP 110
+2019-03-14 11:28:43,424 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.011s of thinking
+2019-03-14 11:28:43,613 [alpha_bomb_0_wrapper] INFO: STARTING STEP 111
+2019-03-14 11:28:43,616 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:28:43,813 [alpha_bomb_0_wrapper] INFO: STARTING STEP 112
+2019-03-14 11:28:43,822 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.009s of thinking
+2019-03-14 11:28:44,013 [alpha_bomb_0_wrapper] INFO: STARTING STEP 113
+2019-03-14 11:28:44,033 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.020s of thinking
+2019-03-14 11:28:44,213 [alpha_bomb_0_wrapper] INFO: STARTING STEP 114
+2019-03-14 11:28:44,216 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:28:44,414 [alpha_bomb_0_wrapper] INFO: STARTING STEP 115
+2019-03-14 11:28:44,416 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:28:44,614 [alpha_bomb_0_wrapper] INFO: STARTING STEP 116
+2019-03-14 11:28:44,621 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.007s of thinking
+2019-03-14 11:28:44,814 [alpha_bomb_0_wrapper] INFO: STARTING STEP 117
+2019-03-14 11:28:44,820 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-14 11:28:45,014 [alpha_bomb_0_wrapper] INFO: STARTING STEP 118
+2019-03-14 11:28:45,020 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-14 11:28:45,215 [alpha_bomb_0_wrapper] INFO: STARTING STEP 119
+2019-03-14 11:28:45,217 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-14 11:28:45,415 [alpha_bomb_0_wrapper] INFO: STARTING STEP 120
+2019-03-14 11:28:45,421 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-14 11:28:45,615 [alpha_bomb_0_wrapper] INFO: STARTING STEP 121
+2019-03-14 11:28:45,618 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-14 11:28:45,815 [alpha_bomb_0_wrapper] INFO: STARTING STEP 122
+2019-03-14 11:28:45,821 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-14 11:28:46,015 [alpha_bomb_0_wrapper] INFO: STARTING STEP 123
+2019-03-14 11:28:46,020 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:28:46,216 [alpha_bomb_0_wrapper] INFO: STARTING STEP 124
+2019-03-14 11:28:46,218 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:28:46,416 [alpha_bomb_0_wrapper] INFO: STARTING STEP 125
+2019-03-14 11:28:46,421 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:28:46,616 [alpha_bomb_0_wrapper] INFO: STARTING STEP 126
+2019-03-14 11:28:46,624 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.007s of thinking
+2019-03-14 11:28:46,816 [alpha_bomb_0_wrapper] INFO: STARTING STEP 127
+2019-03-14 11:28:46,819 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:28:47,017 [alpha_bomb_0_wrapper] INFO: STARTING STEP 128
+2019-03-14 11:28:47,032 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.015s of thinking
+2019-03-14 11:28:47,217 [alpha_bomb_0_wrapper] INFO: STARTING STEP 129
+2019-03-14 11:28:47,224 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-03-14 11:28:47,418 [alpha_bomb_0_wrapper] INFO: STARTING STEP 130
+2019-03-14 11:28:47,424 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-14 11:28:47,618 [alpha_bomb_0_wrapper] INFO: STARTING STEP 131
+2019-03-14 11:28:47,620 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:28:47,818 [alpha_bomb_0_wrapper] INFO: STARTING STEP 132
+2019-03-14 11:28:47,827 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.008s of thinking
+2019-03-14 11:28:48,018 [alpha_bomb_0_wrapper] INFO: STARTING STEP 133
+2019-03-14 11:28:48,022 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:28:48,219 [alpha_bomb_0_wrapper] INFO: STARTING STEP 134
+2019-03-14 11:28:48,235 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.017s of thinking
+2019-03-14 11:28:48,419 [alpha_bomb_0_wrapper] INFO: STARTING STEP 135
+2019-03-14 11:28:48,437 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.018s of thinking
+2019-03-14 11:28:48,619 [alpha_bomb_0_wrapper] INFO: STARTING STEP 136
+2019-03-14 11:28:48,623 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:28:48,819 [alpha_bomb_0_wrapper] INFO: STARTING STEP 137
+2019-03-14 11:28:48,823 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:28:49,019 [alpha_bomb_0_wrapper] INFO: STARTING STEP 138
+2019-03-14 11:28:49,030 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.010s of thinking
+2019-03-14 11:28:49,220 [alpha_bomb_0_wrapper] INFO: STARTING STEP 139
+2019-03-14 11:28:49,238 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.018s of thinking
+2019-03-14 11:28:49,420 [alpha_bomb_0_wrapper] INFO: STARTING STEP 140
+2019-03-14 11:28:49,423 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-14 11:28:49,620 [alpha_bomb_0_wrapper] INFO: STARTING STEP 141
+2019-03-14 11:28:49,631 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.011s of thinking
+2019-03-14 11:28:49,820 [alpha_bomb_0_wrapper] INFO: STARTING STEP 142
+2019-03-14 11:28:49,825 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-14 11:28:50,021 [alpha_bomb_0_wrapper] INFO: STARTING STEP 143
+2019-03-14 11:28:50,023 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-14 11:28:50,222 [alpha_bomb_0_wrapper] INFO: STARTING STEP 144
+2019-03-14 11:28:50,228 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-14 11:28:50,423 [alpha_bomb_0_wrapper] INFO: STARTING STEP 145
+2019-03-14 11:28:50,425 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:28:50,623 [alpha_bomb_0_wrapper] INFO: STARTING STEP 146
+2019-03-14 11:28:50,629 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:28:50,823 [alpha_bomb_0_wrapper] INFO: STARTING STEP 147
+2019-03-14 11:28:50,831 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.007s of thinking
+2019-03-14 11:28:51,023 [alpha_bomb_0_wrapper] INFO: STARTING STEP 148
+2019-03-14 11:28:51,028 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:28:51,225 [alpha_bomb_0_wrapper] INFO: STARTING STEP 149
+2019-03-14 11:28:51,230 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-14 11:28:51,425 [alpha_bomb_0_wrapper] INFO: STARTING STEP 150
+2019-03-14 11:28:51,430 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-14 11:28:51,626 [alpha_bomb_0_wrapper] INFO: STARTING STEP 151
+2019-03-14 11:28:51,628 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:28:51,826 [alpha_bomb_0_wrapper] INFO: STARTING STEP 152
+2019-03-14 11:28:51,834 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.008s of thinking
+2019-03-14 11:28:52,026 [alpha_bomb_0_wrapper] INFO: STARTING STEP 153
+2019-03-14 11:28:52,029 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:28:52,226 [alpha_bomb_0_wrapper] INFO: STARTING STEP 154
+2019-03-14 11:28:52,230 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-14 11:28:52,427 [alpha_bomb_0_wrapper] INFO: STARTING STEP 155
+2019-03-14 11:28:52,431 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-14 11:28:52,627 [alpha_bomb_0_wrapper] INFO: STARTING STEP 156
+2019-03-14 11:28:52,632 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:28:52,827 [alpha_bomb_0_wrapper] INFO: STARTING STEP 157
+2019-03-14 11:28:52,831 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-14 11:28:53,027 [alpha_bomb_0_wrapper] INFO: STARTING STEP 158
+2019-03-14 11:28:53,030 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:28:53,228 [alpha_bomb_0_wrapper] INFO: STARTING STEP 159
+2019-03-14 11:28:53,230 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:28:53,428 [alpha_bomb_0_wrapper] INFO: STARTING STEP 160
+2019-03-14 11:28:53,431 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:28:53,628 [alpha_bomb_0_wrapper] INFO: STARTING STEP 161
+2019-03-14 11:28:53,631 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:28:53,828 [alpha_bomb_0_wrapper] INFO: STARTING STEP 162
+2019-03-14 11:28:53,835 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-14 11:28:54,028 [alpha_bomb_0_wrapper] INFO: STARTING STEP 163
+2019-03-14 11:28:54,031 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:28:54,229 [alpha_bomb_0_wrapper] INFO: STARTING STEP 164
+2019-03-14 11:28:54,234 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-14 11:28:54,429 [alpha_bomb_0_wrapper] INFO: STARTING STEP 165
+2019-03-14 11:28:54,432 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:28:54,629 [alpha_bomb_0_wrapper] INFO: STARTING STEP 166
+2019-03-14 11:28:54,633 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:28:54,829 [alpha_bomb_0_wrapper] INFO: STARTING STEP 167
+2019-03-14 11:28:54,832 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:28:55,030 [alpha_bomb_0_wrapper] INFO: STARTING STEP 168
+2019-03-14 11:28:55,032 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:28:55,230 [alpha_bomb_0_wrapper] INFO: STARTING STEP 169
+2019-03-14 11:28:55,232 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:28:55,430 [alpha_bomb_0_wrapper] INFO: STARTING STEP 170
+2019-03-14 11:28:55,433 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:28:55,630 [alpha_bomb_0_wrapper] INFO: STARTING STEP 171
+2019-03-14 11:28:55,637 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.007s of thinking
+2019-03-14 11:28:55,830 [alpha_bomb_0_wrapper] INFO: STARTING STEP 172
+2019-03-14 11:28:55,834 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-14 11:28:56,031 [alpha_bomb_0_wrapper] INFO: STARTING STEP 173
+2019-03-14 11:28:56,038 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.007s of thinking
+2019-03-14 11:28:56,231 [alpha_bomb_0_wrapper] INFO: STARTING STEP 174
+2019-03-14 11:28:56,234 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:28:56,432 [alpha_bomb_0_wrapper] INFO: STARTING STEP 175
+2019-03-14 11:28:56,435 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:28:56,632 [alpha_bomb_0_wrapper] INFO: STARTING STEP 176
+2019-03-14 11:28:56,642 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.010s of thinking
+2019-03-14 11:28:56,832 [alpha_bomb_0_wrapper] INFO: STARTING STEP 177
+2019-03-14 11:28:56,835 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:28:57,033 [alpha_bomb_0_wrapper] INFO: STARTING STEP 178
+2019-03-14 11:28:57,038 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-14 11:28:57,233 [alpha_bomb_0_wrapper] INFO: STARTING STEP 179
+2019-03-14 11:28:57,240 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.007s of thinking
+2019-03-14 11:28:57,434 [alpha_bomb_0_wrapper] INFO: STARTING STEP 180
+2019-03-14 11:28:57,436 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:28:57,634 [alpha_bomb_0_wrapper] INFO: STARTING STEP 181
+2019-03-14 11:28:57,637 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:28:57,834 [alpha_bomb_0_wrapper] INFO: STARTING STEP 182
+2019-03-14 11:28:57,837 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:28:58,035 [alpha_bomb_0_wrapper] INFO: STARTING STEP 183
+2019-03-14 11:28:58,045 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:28:58,235 [alpha_bomb_0_wrapper] INFO: STARTING STEP 184
+2019-03-14 11:28:58,241 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-14 11:28:58,435 [alpha_bomb_0_wrapper] INFO: STARTING STEP 185
+2019-03-14 11:28:58,438 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:28:58,636 [alpha_bomb_0_wrapper] INFO: STARTING STEP 186
+2019-03-14 11:28:58,639 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:28:58,836 [alpha_bomb_0_wrapper] INFO: STARTING STEP 187
+2019-03-14 11:28:58,842 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-14 11:28:59,038 [alpha_bomb_0_wrapper] INFO: STARTING STEP 188
+2019-03-14 11:28:59,044 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-14 11:28:59,238 [alpha_bomb_0_wrapper] INFO: STARTING STEP 189
+2019-03-14 11:28:59,243 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:28:59,438 [alpha_bomb_0_wrapper] INFO: STARTING STEP 190
+2019-03-14 11:28:59,446 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.008s of thinking
+2019-03-14 11:28:59,638 [alpha_bomb_0_wrapper] INFO: STARTING STEP 191
+2019-03-14 11:28:59,641 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:28:59,838 [alpha_bomb_0_wrapper] INFO: STARTING STEP 192
+2019-03-14 11:28:59,841 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:29:00,040 [alpha_bomb_0_wrapper] INFO: STARTING STEP 193
+2019-03-14 11:29:00,045 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:29:00,240 [alpha_bomb_0_wrapper] INFO: STARTING STEP 194
+2019-03-14 11:29:00,243 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:29:00,440 [alpha_bomb_0_wrapper] INFO: STARTING STEP 195
+2019-03-14 11:29:00,443 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:29:00,641 [alpha_bomb_0_wrapper] INFO: STARTING STEP 196
+2019-03-14 11:29:00,649 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.009s of thinking
+2019-03-14 11:29:00,841 [alpha_bomb_0_wrapper] INFO: STARTING STEP 197
+2019-03-14 11:29:00,843 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:29:01,042 [alpha_bomb_0_wrapper] INFO: STARTING STEP 198
+2019-03-14 11:29:01,046 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-14 11:29:01,242 [alpha_bomb_0_wrapper] INFO: STARTING STEP 199
+2019-03-14 11:29:01,245 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-14 11:29:01,443 [alpha_bomb_0_wrapper] INFO: STARTING STEP 200
+2019-03-14 11:29:01,445 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-14 11:29:01,643 [alpha_bomb_0_wrapper] INFO: STARTING STEP 201
+2019-03-14 11:29:01,646 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-14 11:29:01,843 [alpha_bomb_0_wrapper] INFO: STARTING STEP 202
+2019-03-14 11:29:01,848 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-14 11:29:02,043 [alpha_bomb_0_wrapper] INFO: STARTING STEP 203
+2019-03-14 11:29:02,046 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:29:02,244 [alpha_bomb_0_wrapper] INFO: STARTING STEP 204
+2019-03-14 11:29:02,249 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-14 11:29:02,444 [alpha_bomb_0_wrapper] INFO: STARTING STEP 205
+2019-03-14 11:29:02,447 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:29:02,644 [alpha_bomb_0_wrapper] INFO: STARTING STEP 206
+2019-03-14 11:29:02,649 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-14 11:29:02,844 [alpha_bomb_0_wrapper] INFO: STARTING STEP 207
+2019-03-14 11:29:02,847 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:29:03,044 [alpha_bomb_0_wrapper] INFO: STARTING STEP 208
+2019-03-14 11:29:03,048 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:29:03,245 [alpha_bomb_0_wrapper] INFO: STARTING STEP 209
+2019-03-14 11:29:03,248 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:29:03,445 [alpha_bomb_0_wrapper] INFO: STARTING STEP 210
+2019-03-14 11:29:03,451 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-14 11:29:03,645 [alpha_bomb_0_wrapper] INFO: STARTING STEP 211
+2019-03-14 11:29:03,651 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-14 11:29:03,845 [alpha_bomb_0_wrapper] INFO: STARTING STEP 212
+2019-03-14 11:29:03,848 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:29:04,046 [alpha_bomb_0_wrapper] INFO: STARTING STEP 213
+2019-03-14 11:29:04,048 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:29:04,246 [alpha_bomb_0_wrapper] INFO: STARTING STEP 214
+2019-03-14 11:29:04,251 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-14 11:29:04,446 [alpha_bomb_0_wrapper] INFO: STARTING STEP 215
+2019-03-14 11:29:04,449 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:29:04,646 [alpha_bomb_0_wrapper] INFO: STARTING STEP 216
+2019-03-14 11:29:04,650 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:29:04,847 [alpha_bomb_0_wrapper] INFO: STARTING STEP 217
+2019-03-14 11:29:04,851 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-14 11:29:05,047 [alpha_bomb_0_wrapper] INFO: STARTING STEP 218
+2019-03-14 11:29:05,054 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.007s of thinking
+2019-03-14 11:29:05,247 [alpha_bomb_0_wrapper] INFO: STARTING STEP 219
+2019-03-14 11:29:05,252 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-14 11:29:05,447 [alpha_bomb_0_wrapper] INFO: STARTING STEP 220
+2019-03-14 11:29:05,452 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-14 11:29:05,647 [alpha_bomb_0_wrapper] INFO: STARTING STEP 221
+2019-03-14 11:29:05,653 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-14 11:29:05,848 [alpha_bomb_0_wrapper] INFO: STARTING STEP 222
+2019-03-14 11:29:05,852 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-14 11:29:06,048 [alpha_bomb_0_wrapper] INFO: STARTING STEP 223
+2019-03-14 11:29:06,051 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-14 11:29:06,248 [alpha_bomb_0_wrapper] INFO: STARTING STEP 224
+2019-03-14 11:29:06,256 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.008s of thinking
+2019-03-14 11:29:06,448 [alpha_bomb_0_wrapper] INFO: STARTING STEP 225
+2019-03-14 11:29:06,451 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:29:06,649 [alpha_bomb_0_wrapper] INFO: STARTING STEP 226
+2019-03-14 11:29:06,651 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:29:06,850 [alpha_bomb_0_wrapper] INFO: STARTING STEP 227
+2019-03-14 11:29:06,858 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.008s of thinking
+2019-03-14 11:29:07,050 [alpha_bomb_0_wrapper] INFO: STARTING STEP 228
+2019-03-14 11:29:07,056 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-14 11:29:07,250 [alpha_bomb_0_wrapper] INFO: STARTING STEP 229
+2019-03-14 11:29:07,253 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:29:07,450 [alpha_bomb_0_wrapper] INFO: STARTING STEP 230
+2019-03-14 11:29:07,455 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:29:07,651 [alpha_bomb_0_wrapper] INFO: STARTING STEP 231
+2019-03-14 11:29:07,653 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:29:07,851 [alpha_bomb_0_wrapper] INFO: STARTING STEP 232
+2019-03-14 11:29:07,867 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.016s of thinking
+2019-03-14 11:29:08,051 [alpha_bomb_0_wrapper] INFO: STARTING STEP 233
+2019-03-14 11:29:08,058 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-14 11:29:08,251 [alpha_bomb_0_wrapper] INFO: STARTING STEP 234
+2019-03-14 11:29:08,254 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:29:08,451 [alpha_bomb_0_wrapper] INFO: STARTING STEP 235
+2019-03-14 11:29:08,455 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:29:08,652 [alpha_bomb_0_wrapper] INFO: STARTING STEP 236
+2019-03-14 11:29:08,662 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.010s of thinking
+2019-03-14 11:29:08,852 [alpha_bomb_0_wrapper] INFO: STARTING STEP 237
+2019-03-14 11:29:08,857 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-14 11:29:09,052 [alpha_bomb_0_wrapper] INFO: STARTING STEP 238
+2019-03-14 11:29:09,060 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.007s of thinking
+2019-03-14 11:29:09,253 [alpha_bomb_0_wrapper] INFO: STARTING STEP 239
+2019-03-14 11:29:09,259 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-14 11:29:09,455 [alpha_bomb_0_wrapper] INFO: STARTING STEP 240
+2019-03-14 11:29:09,471 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.015s of thinking
+2019-03-14 11:29:09,655 [alpha_bomb_0_wrapper] INFO: STARTING STEP 241
+2019-03-14 11:29:09,660 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:29:09,855 [alpha_bomb_0_wrapper] INFO: STARTING STEP 242
+2019-03-14 11:29:09,859 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:29:10,056 [alpha_bomb_0_wrapper] INFO: STARTING STEP 243
+2019-03-14 11:29:10,063 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.007s of thinking
+2019-03-14 11:29:10,256 [alpha_bomb_0_wrapper] INFO: STARTING STEP 244
+2019-03-14 11:29:10,263 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.007s of thinking
+2019-03-14 11:29:10,456 [alpha_bomb_0_wrapper] INFO: STARTING STEP 245
+2019-03-14 11:29:10,462 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-14 11:29:10,656 [alpha_bomb_0_wrapper] INFO: STARTING STEP 246
+2019-03-14 11:29:10,663 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-14 11:29:10,856 [alpha_bomb_0_wrapper] INFO: STARTING STEP 247
+2019-03-14 11:29:10,859 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:29:11,059 [alpha_bomb_0_wrapper] INFO: STARTING STEP 248
+2019-03-14 11:29:11,065 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-14 11:29:11,257 [alpha_bomb_0_wrapper] INFO: STARTING STEP 249
+2019-03-14 11:29:11,260 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:29:11,457 [alpha_bomb_0_wrapper] INFO: STARTING STEP 250
+2019-03-14 11:29:11,459 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:29:11,657 [alpha_bomb_0_wrapper] INFO: STARTING STEP 251
+2019-03-14 11:29:11,664 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.007s of thinking
+2019-03-14 11:29:11,858 [alpha_bomb_0_wrapper] INFO: STARTING STEP 252
+2019-03-14 11:29:11,860 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-14 11:29:12,058 [alpha_bomb_0_wrapper] INFO: STARTING STEP 253
+2019-03-14 11:29:12,064 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-14 11:29:12,258 [alpha_bomb_0_wrapper] INFO: STARTING STEP 254
+2019-03-14 11:29:12,261 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-14 11:29:12,458 [alpha_bomb_0_wrapper] INFO: STARTING STEP 255
+2019-03-14 11:29:12,464 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-03-14 11:29:12,659 [alpha_bomb_0_wrapper] INFO: STARTING STEP 256
+2019-03-14 11:29:12,667 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.008s of thinking
+2019-03-14 11:29:12,859 [alpha_bomb_0_wrapper] INFO: STARTING STEP 257
+2019-03-14 11:29:12,862 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:29:13,059 [alpha_bomb_0_wrapper] INFO: STARTING STEP 258
+2019-03-14 11:29:13,064 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-14 11:29:13,259 [alpha_bomb_0_wrapper] INFO: STARTING STEP 259
+2019-03-14 11:29:13,270 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.011s of thinking
+2019-03-14 11:29:13,459 [alpha_bomb_0_wrapper] INFO: STARTING STEP 260
+2019-03-14 11:29:13,462 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:29:13,666 [alpha_bomb_0_wrapper] INFO: Received exit message for round
+2019-03-14 11:29:13,666 [alpha_bomb_0_wrapper] INFO: Round #1 finished
+2019-03-14 11:29:15,432 [alpha_bomb_0_wrapper] INFO: STARTING ROUND #2
+2019-03-14 11:29:15,470 [alpha_bomb_0_wrapper] INFO: STARTING STEP 1
+2019-03-14 11:29:15,473 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-14 11:29:15,673 [alpha_bomb_0_wrapper] INFO: STARTING STEP 2
+2019-03-14 11:29:15,688 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.016s of thinking
+2019-03-14 11:29:15,873 [alpha_bomb_0_wrapper] INFO: STARTING STEP 3
+2019-03-14 11:29:15,875 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:29:16,073 [alpha_bomb_0_wrapper] INFO: STARTING STEP 4
+2019-03-14 11:29:16,079 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-14 11:29:16,273 [alpha_bomb_0_wrapper] INFO: STARTING STEP 5
+2019-03-14 11:29:16,285 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.011s of thinking
+2019-03-14 11:29:16,474 [alpha_bomb_0_wrapper] INFO: STARTING STEP 6
+2019-03-14 11:29:16,494 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.021s of thinking
+2019-03-14 11:29:16,674 [alpha_bomb_0_wrapper] INFO: STARTING STEP 7
+2019-03-14 11:29:16,689 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.015s of thinking
+2019-03-14 11:29:16,874 [alpha_bomb_0_wrapper] INFO: STARTING STEP 8
+2019-03-14 11:29:16,882 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.007s of thinking
+2019-03-14 11:29:17,074 [alpha_bomb_0_wrapper] INFO: STARTING STEP 9
+2019-03-14 11:29:17,077 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-14 11:29:17,274 [alpha_bomb_0_wrapper] INFO: STARTING STEP 10
+2019-03-14 11:29:17,279 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-14 11:29:17,477 [alpha_bomb_0_wrapper] INFO: STARTING STEP 11
+2019-03-14 11:29:17,486 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.009s of thinking
+2019-03-14 11:29:17,677 [alpha_bomb_0_wrapper] INFO: STARTING STEP 12
+2019-03-14 11:29:17,688 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.011s of thinking
+2019-03-14 11:29:17,877 [alpha_bomb_0_wrapper] INFO: STARTING STEP 13
+2019-03-14 11:29:17,880 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:29:18,077 [alpha_bomb_0_wrapper] INFO: STARTING STEP 14
+2019-03-14 11:29:18,083 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-14 11:29:18,278 [alpha_bomb_0_wrapper] INFO: STARTING STEP 15
+2019-03-14 11:29:18,284 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-14 11:29:18,478 [alpha_bomb_0_wrapper] INFO: STARTING STEP 16
+2019-03-14 11:29:18,480 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:29:18,678 [alpha_bomb_0_wrapper] INFO: STARTING STEP 17
+2019-03-14 11:29:18,687 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.009s of thinking
+2019-03-14 11:29:18,878 [alpha_bomb_0_wrapper] INFO: STARTING STEP 18
+2019-03-14 11:29:18,885 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.007s of thinking
+2019-03-14 11:29:19,081 [alpha_bomb_0_wrapper] INFO: STARTING STEP 19
+2019-03-14 11:29:19,093 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.012s of thinking
+2019-03-14 11:29:19,281 [alpha_bomb_0_wrapper] INFO: STARTING STEP 20
+2019-03-14 11:29:19,286 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-14 11:29:19,481 [alpha_bomb_0_wrapper] INFO: STARTING STEP 21
+2019-03-14 11:29:19,484 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:29:19,681 [alpha_bomb_0_wrapper] INFO: STARTING STEP 22
+2019-03-14 11:29:19,699 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.017s of thinking
+2019-03-14 11:29:19,881 [alpha_bomb_0_wrapper] INFO: STARTING STEP 23
+2019-03-14 11:29:19,886 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-14 11:29:20,082 [alpha_bomb_0_wrapper] INFO: STARTING STEP 24
+2019-03-14 11:29:20,087 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-14 11:29:20,282 [alpha_bomb_0_wrapper] INFO: STARTING STEP 25
+2019-03-14 11:29:20,286 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:29:20,482 [alpha_bomb_0_wrapper] INFO: STARTING STEP 26
+2019-03-14 11:29:20,488 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-14 11:29:20,682 [alpha_bomb_0_wrapper] INFO: STARTING STEP 27
+2019-03-14 11:29:20,702 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.020s of thinking
+2019-03-14 11:29:20,883 [alpha_bomb_0_wrapper] INFO: STARTING STEP 28
+2019-03-14 11:29:20,885 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:29:21,083 [alpha_bomb_0_wrapper] INFO: STARTING STEP 29
+2019-03-14 11:29:21,085 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:29:21,283 [alpha_bomb_0_wrapper] INFO: STARTING STEP 30
+2019-03-14 11:29:21,286 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:29:21,483 [alpha_bomb_0_wrapper] INFO: STARTING STEP 31
+2019-03-14 11:29:21,488 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:29:21,683 [alpha_bomb_0_wrapper] INFO: STARTING STEP 32
+2019-03-14 11:29:21,687 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-14 11:29:21,884 [alpha_bomb_0_wrapper] INFO: STARTING STEP 33
+2019-03-14 11:29:21,886 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:29:22,084 [alpha_bomb_0_wrapper] INFO: STARTING STEP 34
+2019-03-14 11:29:22,086 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:29:22,284 [alpha_bomb_0_wrapper] INFO: STARTING STEP 35
+2019-03-14 11:29:22,287 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:29:22,484 [alpha_bomb_0_wrapper] INFO: STARTING STEP 36
+2019-03-14 11:29:22,487 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:29:22,684 [alpha_bomb_0_wrapper] INFO: STARTING STEP 37
+2019-03-14 11:29:22,689 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:29:22,885 [alpha_bomb_0_wrapper] INFO: STARTING STEP 38
+2019-03-14 11:29:22,887 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:29:23,085 [alpha_bomb_0_wrapper] INFO: STARTING STEP 39
+2019-03-14 11:29:23,093 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-14 11:29:23,285 [alpha_bomb_0_wrapper] INFO: STARTING STEP 40
+2019-03-14 11:29:23,288 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:29:23,486 [alpha_bomb_0_wrapper] INFO: STARTING STEP 41
+2019-03-14 11:29:23,492 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-14 11:29:23,687 [alpha_bomb_0_wrapper] INFO: STARTING STEP 42
+2019-03-14 11:29:23,689 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:29:23,887 [alpha_bomb_0_wrapper] INFO: STARTING STEP 43
+2019-03-14 11:29:23,892 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-14 11:29:24,087 [alpha_bomb_0_wrapper] INFO: STARTING STEP 44
+2019-03-14 11:29:24,093 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-14 11:29:24,287 [alpha_bomb_0_wrapper] INFO: STARTING STEP 45
+2019-03-14 11:29:24,290 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-14 11:29:24,488 [alpha_bomb_0_wrapper] INFO: STARTING STEP 46
+2019-03-14 11:29:24,504 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.016s of thinking
+2019-03-14 11:29:24,689 [alpha_bomb_0_wrapper] INFO: STARTING STEP 47
+2019-03-14 11:29:24,691 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:29:24,889 [alpha_bomb_0_wrapper] INFO: STARTING STEP 48
+2019-03-14 11:29:24,909 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.020s of thinking
+2019-03-14 11:29:25,089 [alpha_bomb_0_wrapper] INFO: STARTING STEP 49
+2019-03-14 11:29:25,107 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.018s of thinking
+2019-03-14 11:29:25,289 [alpha_bomb_0_wrapper] INFO: STARTING STEP 50
+2019-03-14 11:29:25,294 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:29:25,490 [alpha_bomb_0_wrapper] INFO: STARTING STEP 51
+2019-03-14 11:29:25,505 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.015s of thinking
+2019-03-14 11:29:25,690 [alpha_bomb_0_wrapper] INFO: STARTING STEP 52
+2019-03-14 11:29:25,696 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-14 11:29:25,890 [alpha_bomb_0_wrapper] INFO: STARTING STEP 53
+2019-03-14 11:29:25,900 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.010s of thinking
+2019-03-14 11:29:26,090 [alpha_bomb_0_wrapper] INFO: STARTING STEP 54
+2019-03-14 11:29:26,094 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:29:26,290 [alpha_bomb_0_wrapper] INFO: STARTING STEP 55
+2019-03-14 11:29:26,293 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:29:26,490 [alpha_bomb_0_wrapper] INFO: STARTING STEP 56
+2019-03-14 11:29:26,493 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:29:26,691 [alpha_bomb_0_wrapper] INFO: STARTING STEP 57
+2019-03-14 11:29:26,693 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-14 11:29:26,893 [alpha_bomb_0_wrapper] INFO: STARTING STEP 58
+2019-03-14 11:29:26,899 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-14 11:29:27,091 [alpha_bomb_0_wrapper] INFO: STARTING STEP 59
+2019-03-14 11:29:27,093 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:29:27,291 [alpha_bomb_0_wrapper] INFO: STARTING STEP 60
+2019-03-14 11:29:27,294 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:29:27,492 [alpha_bomb_0_wrapper] INFO: STARTING STEP 61
+2019-03-14 11:29:27,499 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.007s of thinking
+2019-03-14 11:29:27,692 [alpha_bomb_0_wrapper] INFO: STARTING STEP 62
+2019-03-14 11:29:27,704 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.012s of thinking
+2019-03-14 11:29:27,892 [alpha_bomb_0_wrapper] INFO: STARTING STEP 63
+2019-03-14 11:29:27,902 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.010s of thinking
+2019-03-14 11:29:28,092 [alpha_bomb_0_wrapper] INFO: STARTING STEP 64
+2019-03-14 11:29:28,099 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-14 11:29:28,292 [alpha_bomb_0_wrapper] INFO: STARTING STEP 65
+2019-03-14 11:29:28,296 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:29:28,493 [alpha_bomb_0_wrapper] INFO: STARTING STEP 66
+2019-03-14 11:29:28,495 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:29:28,693 [alpha_bomb_0_wrapper] INFO: STARTING STEP 67
+2019-03-14 11:29:28,696 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:29:28,893 [alpha_bomb_0_wrapper] INFO: STARTING STEP 68
+2019-03-14 11:29:28,896 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-14 11:29:29,093 [alpha_bomb_0_wrapper] INFO: STARTING STEP 69
+2019-03-14 11:29:29,099 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-14 11:29:29,294 [alpha_bomb_0_wrapper] INFO: STARTING STEP 70
+2019-03-14 11:29:29,297 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:29:29,494 [alpha_bomb_0_wrapper] INFO: STARTING STEP 71
+2019-03-14 11:29:29,500 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:29:29,694 [alpha_bomb_0_wrapper] INFO: STARTING STEP 72
+2019-03-14 11:29:29,697 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:29:29,895 [alpha_bomb_0_wrapper] INFO: STARTING STEP 73
+2019-03-14 11:29:29,897 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-14 11:29:30,095 [alpha_bomb_0_wrapper] INFO: STARTING STEP 74
+2019-03-14 11:29:30,097 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-14 11:29:30,295 [alpha_bomb_0_wrapper] INFO: STARTING STEP 75
+2019-03-14 11:29:30,300 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-14 11:29:30,495 [alpha_bomb_0_wrapper] INFO: STARTING STEP 76
+2019-03-14 11:29:30,498 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:29:30,695 [alpha_bomb_0_wrapper] INFO: STARTING STEP 77
+2019-03-14 11:29:30,698 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:29:30,896 [alpha_bomb_0_wrapper] INFO: STARTING STEP 78
+2019-03-14 11:29:30,906 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.010s of thinking
+2019-03-14 11:29:31,096 [alpha_bomb_0_wrapper] INFO: STARTING STEP 79
+2019-03-14 11:29:31,104 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.008s of thinking
+2019-03-14 11:29:31,296 [alpha_bomb_0_wrapper] INFO: STARTING STEP 80
+2019-03-14 11:29:31,299 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:29:31,496 [alpha_bomb_0_wrapper] INFO: STARTING STEP 81
+2019-03-14 11:29:31,499 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:29:31,697 [alpha_bomb_0_wrapper] INFO: STARTING STEP 82
+2019-03-14 11:29:31,699 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:29:31,899 [alpha_bomb_0_wrapper] INFO: STARTING STEP 83
+2019-03-14 11:29:31,901 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:29:32,099 [alpha_bomb_0_wrapper] INFO: STARTING STEP 84
+2019-03-14 11:29:32,105 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-14 11:29:32,299 [alpha_bomb_0_wrapper] INFO: STARTING STEP 85
+2019-03-14 11:29:32,305 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-03-14 11:29:32,500 [alpha_bomb_0_wrapper] INFO: STARTING STEP 86
+2019-03-14 11:29:32,502 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:29:32,700 [alpha_bomb_0_wrapper] INFO: STARTING STEP 87
+2019-03-14 11:29:32,706 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-14 11:29:32,900 [alpha_bomb_0_wrapper] INFO: STARTING STEP 88
+2019-03-14 11:29:32,910 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.010s of thinking
+2019-03-14 11:29:33,130 [alpha_bomb_0_wrapper] INFO: STARTING STEP 89
+2019-03-14 11:29:33,134 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-14 11:29:33,301 [alpha_bomb_0_wrapper] INFO: STARTING STEP 90
+2019-03-14 11:29:33,306 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-14 11:29:33,501 [alpha_bomb_0_wrapper] INFO: STARTING STEP 91
+2019-03-14 11:29:33,507 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-14 11:29:33,701 [alpha_bomb_0_wrapper] INFO: STARTING STEP 92
+2019-03-14 11:29:33,704 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:29:33,901 [alpha_bomb_0_wrapper] INFO: STARTING STEP 93
+2019-03-14 11:29:33,904 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:29:34,102 [alpha_bomb_0_wrapper] INFO: STARTING STEP 94
+2019-03-14 11:29:34,107 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-14 11:29:34,302 [alpha_bomb_0_wrapper] INFO: STARTING STEP 95
+2019-03-14 11:29:34,304 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-14 11:29:34,504 [alpha_bomb_0_wrapper] INFO: STARTING STEP 96
+2019-03-14 11:29:34,508 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-14 11:29:34,704 [alpha_bomb_0_wrapper] INFO: STARTING STEP 97
+2019-03-14 11:29:34,707 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-14 11:29:34,904 [alpha_bomb_0_wrapper] INFO: STARTING STEP 98
+2019-03-14 11:29:34,909 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-14 11:29:35,106 [alpha_bomb_0_wrapper] INFO: STARTING STEP 99
+2019-03-14 11:29:35,109 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:29:35,304 [alpha_bomb_0_wrapper] INFO: STARTING STEP 100
+2019-03-14 11:29:35,320 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.016s of thinking
+2019-03-14 11:29:35,505 [alpha_bomb_0_wrapper] INFO: STARTING STEP 101
+2019-03-14 11:29:35,507 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:29:35,705 [alpha_bomb_0_wrapper] INFO: STARTING STEP 102
+2019-03-14 11:29:35,709 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-14 11:29:35,905 [alpha_bomb_0_wrapper] INFO: STARTING STEP 103
+2019-03-14 11:29:35,910 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-14 11:29:36,107 [alpha_bomb_0_wrapper] INFO: STARTING STEP 104
+2019-03-14 11:29:36,112 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-03-14 11:29:36,307 [alpha_bomb_0_wrapper] INFO: STARTING STEP 105
+2019-03-14 11:29:36,312 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-03-14 11:29:36,510 [alpha_bomb_0_wrapper] INFO: STARTING STEP 106
+2019-03-14 11:29:36,513 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-14 11:29:36,707 [alpha_bomb_0_wrapper] INFO: STARTING STEP 107
+2019-03-14 11:29:36,710 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-14 11:29:36,907 [alpha_bomb_0_wrapper] INFO: STARTING STEP 108
+2019-03-14 11:29:36,913 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-14 11:29:37,107 [alpha_bomb_0_wrapper] INFO: STARTING STEP 109
+2019-03-14 11:29:37,110 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-14 11:29:37,308 [alpha_bomb_0_wrapper] INFO: STARTING STEP 110
+2019-03-14 11:29:37,316 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.008s of thinking
+2019-03-14 11:29:37,508 [alpha_bomb_0_wrapper] INFO: STARTING STEP 111
+2019-03-14 11:29:37,513 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-03-14 11:29:37,708 [alpha_bomb_0_wrapper] INFO: STARTING STEP 112
+2019-03-14 11:29:37,711 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:29:37,908 [alpha_bomb_0_wrapper] INFO: STARTING STEP 113
+2019-03-14 11:29:37,911 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-14 11:29:38,109 [alpha_bomb_0_wrapper] INFO: STARTING STEP 114
+2019-03-14 11:29:38,126 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:29:38,309 [alpha_bomb_0_wrapper] INFO: STARTING STEP 115
+2019-03-14 11:29:38,317 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.008s of thinking
+2019-03-14 11:29:38,509 [alpha_bomb_0_wrapper] INFO: STARTING STEP 116
+2019-03-14 11:29:38,512 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:29:38,709 [alpha_bomb_0_wrapper] INFO: STARTING STEP 117
+2019-03-14 11:29:38,712 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:29:38,909 [alpha_bomb_0_wrapper] INFO: STARTING STEP 118
+2019-03-14 11:29:38,912 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:29:39,110 [alpha_bomb_0_wrapper] INFO: STARTING STEP 119
+2019-03-14 11:29:39,113 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:29:39,310 [alpha_bomb_0_wrapper] INFO: STARTING STEP 120
+2019-03-14 11:29:39,316 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-14 11:29:39,510 [alpha_bomb_0_wrapper] INFO: STARTING STEP 121
+2019-03-14 11:29:39,513 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:29:39,710 [alpha_bomb_0_wrapper] INFO: STARTING STEP 122
+2019-03-14 11:29:39,728 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.018s of thinking
+2019-03-14 11:29:39,911 [alpha_bomb_0_wrapper] INFO: STARTING STEP 123
+2019-03-14 11:29:39,914 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-14 11:29:40,111 [alpha_bomb_0_wrapper] INFO: STARTING STEP 124
+2019-03-14 11:29:40,115 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-14 11:29:40,311 [alpha_bomb_0_wrapper] INFO: STARTING STEP 125
+2019-03-14 11:29:40,316 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:29:40,511 [alpha_bomb_0_wrapper] INFO: STARTING STEP 126
+2019-03-14 11:29:40,519 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.008s of thinking
+2019-03-14 11:29:40,712 [alpha_bomb_0_wrapper] INFO: STARTING STEP 127
+2019-03-14 11:29:40,714 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:29:40,912 [alpha_bomb_0_wrapper] INFO: STARTING STEP 128
+2019-03-14 11:29:40,921 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.009s of thinking
+2019-03-14 11:29:41,112 [alpha_bomb_0_wrapper] INFO: STARTING STEP 129
+2019-03-14 11:29:41,115 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:29:41,312 [alpha_bomb_0_wrapper] INFO: STARTING STEP 130
+2019-03-14 11:29:41,319 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-14 11:29:41,513 [alpha_bomb_0_wrapper] INFO: STARTING STEP 131
+2019-03-14 11:29:41,518 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-14 11:29:41,713 [alpha_bomb_0_wrapper] INFO: STARTING STEP 132
+2019-03-14 11:29:41,715 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:29:41,913 [alpha_bomb_0_wrapper] INFO: STARTING STEP 133
+2019-03-14 11:29:41,916 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:29:42,113 [alpha_bomb_0_wrapper] INFO: STARTING STEP 134
+2019-03-14 11:29:42,116 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:29:42,313 [alpha_bomb_0_wrapper] INFO: STARTING STEP 135
+2019-03-14 11:29:42,319 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:29:42,514 [alpha_bomb_0_wrapper] INFO: STARTING STEP 136
+2019-03-14 11:29:42,522 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.008s of thinking
+2019-03-14 11:29:42,714 [alpha_bomb_0_wrapper] INFO: STARTING STEP 137
+2019-03-14 11:29:42,717 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:29:42,914 [alpha_bomb_0_wrapper] INFO: STARTING STEP 138
+2019-03-14 11:29:42,921 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-14 11:29:43,115 [alpha_bomb_0_wrapper] INFO: STARTING STEP 139
+2019-03-14 11:29:43,118 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:29:43,316 [alpha_bomb_0_wrapper] INFO: STARTING STEP 140
+2019-03-14 11:29:43,321 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:29:43,516 [alpha_bomb_0_wrapper] INFO: STARTING STEP 141
+2019-03-14 11:29:43,524 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.008s of thinking
+2019-03-14 11:29:43,716 [alpha_bomb_0_wrapper] INFO: STARTING STEP 142
+2019-03-14 11:29:43,722 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:29:43,916 [alpha_bomb_0_wrapper] INFO: STARTING STEP 143
+2019-03-14 11:29:43,919 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-14 11:29:44,117 [alpha_bomb_0_wrapper] INFO: STARTING STEP 144
+2019-03-14 11:29:44,122 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-14 11:29:44,317 [alpha_bomb_0_wrapper] INFO: STARTING STEP 145
+2019-03-14 11:29:44,319 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-14 11:29:44,517 [alpha_bomb_0_wrapper] INFO: STARTING STEP 146
+2019-03-14 11:29:44,531 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.013s of thinking
+2019-03-14 11:29:44,717 [alpha_bomb_0_wrapper] INFO: STARTING STEP 147
+2019-03-14 11:29:44,721 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-14 11:29:44,917 [alpha_bomb_0_wrapper] INFO: STARTING STEP 148
+2019-03-14 11:29:44,927 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.009s of thinking
+2019-03-14 11:29:45,118 [alpha_bomb_0_wrapper] INFO: STARTING STEP 149
+2019-03-14 11:29:45,120 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:29:45,318 [alpha_bomb_0_wrapper] INFO: STARTING STEP 150
+2019-03-14 11:29:45,326 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.008s of thinking
+2019-03-14 11:29:45,518 [alpha_bomb_0_wrapper] INFO: STARTING STEP 151
+2019-03-14 11:29:45,521 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:29:45,718 [alpha_bomb_0_wrapper] INFO: STARTING STEP 152
+2019-03-14 11:29:45,732 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.013s of thinking
+2019-03-14 11:29:45,919 [alpha_bomb_0_wrapper] INFO: STARTING STEP 153
+2019-03-14 11:29:45,936 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.018s of thinking
+2019-03-14 11:29:46,119 [alpha_bomb_0_wrapper] INFO: STARTING STEP 154
+2019-03-14 11:29:46,127 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.008s of thinking
+2019-03-14 11:29:46,319 [alpha_bomb_0_wrapper] INFO: STARTING STEP 155
+2019-03-14 11:29:46,325 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-14 11:29:46,519 [alpha_bomb_0_wrapper] INFO: STARTING STEP 156
+2019-03-14 11:29:46,536 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.017s of thinking
+2019-03-14 11:29:46,719 [alpha_bomb_0_wrapper] INFO: STARTING STEP 157
+2019-03-14 11:29:46,722 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:29:46,920 [alpha_bomb_0_wrapper] INFO: STARTING STEP 158
+2019-03-14 11:29:46,923 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:29:47,120 [alpha_bomb_0_wrapper] INFO: STARTING STEP 159
+2019-03-14 11:29:47,124 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-14 11:29:47,320 [alpha_bomb_0_wrapper] INFO: STARTING STEP 160
+2019-03-14 11:29:47,325 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-14 11:29:47,520 [alpha_bomb_0_wrapper] INFO: STARTING STEP 161
+2019-03-14 11:29:47,526 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:29:47,721 [alpha_bomb_0_wrapper] INFO: STARTING STEP 162
+2019-03-14 11:29:47,729 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.008s of thinking
+2019-03-14 11:29:47,921 [alpha_bomb_0_wrapper] INFO: STARTING STEP 163
+2019-03-14 11:29:47,924 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:29:48,122 [alpha_bomb_0_wrapper] INFO: STARTING STEP 164
+2019-03-14 11:29:48,128 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:29:48,322 [alpha_bomb_0_wrapper] INFO: STARTING STEP 165
+2019-03-14 11:29:48,327 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-14 11:29:48,522 [alpha_bomb_0_wrapper] INFO: STARTING STEP 166
+2019-03-14 11:29:48,525 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:29:48,725 [alpha_bomb_0_wrapper] INFO: STARTING STEP 167
+2019-03-14 11:29:48,731 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-14 11:29:48,923 [alpha_bomb_0_wrapper] INFO: STARTING STEP 168
+2019-03-14 11:29:48,930 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.007s of thinking
+2019-03-14 11:29:49,123 [alpha_bomb_0_wrapper] INFO: STARTING STEP 169
+2019-03-14 11:29:49,126 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:29:49,324 [alpha_bomb_0_wrapper] INFO: STARTING STEP 170
+2019-03-14 11:29:49,327 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:29:49,524 [alpha_bomb_0_wrapper] INFO: STARTING STEP 171
+2019-03-14 11:29:49,527 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:29:49,724 [alpha_bomb_0_wrapper] INFO: STARTING STEP 172
+2019-03-14 11:29:49,727 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:29:49,924 [alpha_bomb_0_wrapper] INFO: STARTING STEP 173
+2019-03-14 11:29:49,931 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-14 11:29:50,125 [alpha_bomb_0_wrapper] INFO: STARTING STEP 174
+2019-03-14 11:29:50,127 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:29:50,325 [alpha_bomb_0_wrapper] INFO: STARTING STEP 175
+2019-03-14 11:29:50,331 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-14 11:29:50,525 [alpha_bomb_0_wrapper] INFO: STARTING STEP 176
+2019-03-14 11:29:50,530 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-14 11:29:50,725 [alpha_bomb_0_wrapper] INFO: STARTING STEP 177
+2019-03-14 11:29:50,728 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:29:50,926 [alpha_bomb_0_wrapper] INFO: STARTING STEP 178
+2019-03-14 11:29:50,928 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:29:51,126 [alpha_bomb_0_wrapper] INFO: STARTING STEP 179
+2019-03-14 11:29:51,130 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-14 11:29:51,326 [alpha_bomb_0_wrapper] INFO: STARTING STEP 180
+2019-03-14 11:29:51,337 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.010s of thinking
+2019-03-14 11:29:51,526 [alpha_bomb_0_wrapper] INFO: STARTING STEP 181
+2019-03-14 11:29:51,530 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:29:51,727 [alpha_bomb_0_wrapper] INFO: STARTING STEP 182
+2019-03-14 11:29:51,739 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.012s of thinking
+2019-03-14 11:29:51,928 [alpha_bomb_0_wrapper] INFO: STARTING STEP 183
+2019-03-14 11:29:51,933 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-14 11:29:52,128 [alpha_bomb_0_wrapper] INFO: STARTING STEP 184
+2019-03-14 11:29:52,132 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-14 11:29:52,328 [alpha_bomb_0_wrapper] INFO: STARTING STEP 185
+2019-03-14 11:29:52,331 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:29:52,529 [alpha_bomb_0_wrapper] INFO: STARTING STEP 186
+2019-03-14 11:29:52,535 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-14 11:29:52,729 [alpha_bomb_0_wrapper] INFO: STARTING STEP 187
+2019-03-14 11:29:52,734 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:29:52,929 [alpha_bomb_0_wrapper] INFO: STARTING STEP 188
+2019-03-14 11:29:52,937 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.008s of thinking
+2019-03-14 11:29:53,129 [alpha_bomb_0_wrapper] INFO: STARTING STEP 189
+2019-03-14 11:29:53,140 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:29:53,330 [alpha_bomb_0_wrapper] INFO: STARTING STEP 190
+2019-03-14 11:29:53,337 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.007s of thinking
+2019-03-14 11:29:53,530 [alpha_bomb_0_wrapper] INFO: STARTING STEP 191
+2019-03-14 11:29:53,535 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-14 11:29:53,730 [alpha_bomb_0_wrapper] INFO: STARTING STEP 192
+2019-03-14 11:29:53,733 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:29:53,930 [alpha_bomb_0_wrapper] INFO: STARTING STEP 193
+2019-03-14 11:29:53,939 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.009s of thinking
+2019-03-14 11:29:54,131 [alpha_bomb_0_wrapper] INFO: STARTING STEP 194
+2019-03-14 11:29:54,136 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-14 11:29:54,331 [alpha_bomb_0_wrapper] INFO: STARTING STEP 195
+2019-03-14 11:29:54,334 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:29:54,531 [alpha_bomb_0_wrapper] INFO: STARTING STEP 196
+2019-03-14 11:29:54,537 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:29:54,731 [alpha_bomb_0_wrapper] INFO: STARTING STEP 197
+2019-03-14 11:29:54,738 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.007s of thinking
+2019-03-14 11:29:54,931 [alpha_bomb_0_wrapper] INFO: STARTING STEP 198
+2019-03-14 11:29:54,935 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-14 11:29:55,132 [alpha_bomb_0_wrapper] INFO: STARTING STEP 199
+2019-03-14 11:29:55,135 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:29:55,332 [alpha_bomb_0_wrapper] INFO: STARTING STEP 200
+2019-03-14 11:29:55,335 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:29:55,533 [alpha_bomb_0_wrapper] INFO: STARTING STEP 201
+2019-03-14 11:29:55,539 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-14 11:29:55,733 [alpha_bomb_0_wrapper] INFO: STARTING STEP 202
+2019-03-14 11:29:55,735 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:29:55,933 [alpha_bomb_0_wrapper] INFO: STARTING STEP 203
+2019-03-14 11:29:55,936 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:29:56,133 [alpha_bomb_0_wrapper] INFO: STARTING STEP 204
+2019-03-14 11:29:56,136 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:29:56,334 [alpha_bomb_0_wrapper] INFO: STARTING STEP 205
+2019-03-14 11:29:56,339 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-14 11:29:56,534 [alpha_bomb_0_wrapper] INFO: STARTING STEP 206
+2019-03-14 11:29:56,539 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:29:56,734 [alpha_bomb_0_wrapper] INFO: STARTING STEP 207
+2019-03-14 11:29:56,737 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:29:56,934 [alpha_bomb_0_wrapper] INFO: STARTING STEP 208
+2019-03-14 11:29:56,942 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.008s of thinking
+2019-03-14 11:29:57,134 [alpha_bomb_0_wrapper] INFO: STARTING STEP 209
+2019-03-14 11:29:57,137 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:29:57,335 [alpha_bomb_0_wrapper] INFO: STARTING STEP 210
+2019-03-14 11:29:57,338 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:29:57,537 [alpha_bomb_0_wrapper] INFO: STARTING STEP 211
+2019-03-14 11:29:57,542 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:29:57,737 [alpha_bomb_0_wrapper] INFO: STARTING STEP 212
+2019-03-14 11:29:57,742 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-14 11:29:57,937 [alpha_bomb_0_wrapper] INFO: STARTING STEP 213
+2019-03-14 11:29:57,940 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:29:58,138 [alpha_bomb_0_wrapper] INFO: STARTING STEP 214
+2019-03-14 11:29:58,141 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:29:58,338 [alpha_bomb_0_wrapper] INFO: STARTING STEP 215
+2019-03-14 11:29:58,341 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:29:58,538 [alpha_bomb_0_wrapper] INFO: STARTING STEP 216
+2019-03-14 11:29:58,546 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.007s of thinking
+2019-03-14 11:29:58,738 [alpha_bomb_0_wrapper] INFO: STARTING STEP 217
+2019-03-14 11:29:58,742 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:29:58,939 [alpha_bomb_0_wrapper] INFO: STARTING STEP 218
+2019-03-14 11:29:58,941 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:29:59,139 [alpha_bomb_0_wrapper] INFO: STARTING STEP 219
+2019-03-14 11:29:59,152 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.013s of thinking
+2019-03-14 11:29:59,339 [alpha_bomb_0_wrapper] INFO: STARTING STEP 220
+2019-03-14 11:29:59,342 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:29:59,539 [alpha_bomb_0_wrapper] INFO: STARTING STEP 221
+2019-03-14 11:29:59,542 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-14 11:29:59,740 [alpha_bomb_0_wrapper] INFO: STARTING STEP 222
+2019-03-14 11:29:59,746 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-14 11:29:59,940 [alpha_bomb_0_wrapper] INFO: STARTING STEP 223
+2019-03-14 11:29:59,942 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:30:00,140 [alpha_bomb_0_wrapper] INFO: STARTING STEP 224
+2019-03-14 11:30:00,146 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-14 11:30:00,340 [alpha_bomb_0_wrapper] INFO: STARTING STEP 225
+2019-03-14 11:30:00,343 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:30:00,540 [alpha_bomb_0_wrapper] INFO: STARTING STEP 226
+2019-03-14 11:30:00,543 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:30:00,741 [alpha_bomb_0_wrapper] INFO: STARTING STEP 227
+2019-03-14 11:30:00,749 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.008s of thinking
+2019-03-14 11:30:00,941 [alpha_bomb_0_wrapper] INFO: STARTING STEP 228
+2019-03-14 11:30:00,943 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:30:01,142 [alpha_bomb_0_wrapper] INFO: STARTING STEP 229
+2019-03-14 11:30:01,148 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-14 11:30:01,342 [alpha_bomb_0_wrapper] INFO: STARTING STEP 230
+2019-03-14 11:30:01,347 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-03-14 11:30:01,543 [alpha_bomb_0_wrapper] INFO: STARTING STEP 231
+2019-03-14 11:30:01,559 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.016s of thinking
+2019-03-14 11:30:01,743 [alpha_bomb_0_wrapper] INFO: STARTING STEP 232
+2019-03-14 11:30:01,748 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:30:01,943 [alpha_bomb_0_wrapper] INFO: STARTING STEP 233
+2019-03-14 11:30:01,949 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-14 11:30:02,143 [alpha_bomb_0_wrapper] INFO: STARTING STEP 234
+2019-03-14 11:30:02,146 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-14 11:30:02,344 [alpha_bomb_0_wrapper] INFO: STARTING STEP 235
+2019-03-14 11:30:02,348 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-14 11:30:02,544 [alpha_bomb_0_wrapper] INFO: STARTING STEP 236
+2019-03-14 11:30:02,550 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-14 11:30:02,744 [alpha_bomb_0_wrapper] INFO: STARTING STEP 237
+2019-03-14 11:30:02,747 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-14 11:30:02,944 [alpha_bomb_0_wrapper] INFO: STARTING STEP 238
+2019-03-14 11:30:02,947 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-14 11:30:03,145 [alpha_bomb_0_wrapper] INFO: STARTING STEP 239
+2019-03-14 11:30:03,147 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-14 11:30:03,345 [alpha_bomb_0_wrapper] INFO: STARTING STEP 240
+2019-03-14 11:30:03,347 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-14 11:30:03,545 [alpha_bomb_0_wrapper] INFO: STARTING STEP 241
+2019-03-14 11:30:03,547 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:30:03,747 [alpha_bomb_0_wrapper] INFO: STARTING STEP 242
+2019-03-14 11:30:03,754 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.007s of thinking
+2019-03-14 11:30:03,947 [alpha_bomb_0_wrapper] INFO: STARTING STEP 243
+2019-03-14 11:30:03,949 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:30:04,147 [alpha_bomb_0_wrapper] INFO: STARTING STEP 244
+2019-03-14 11:30:04,155 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.008s of thinking
+2019-03-14 11:30:04,347 [alpha_bomb_0_wrapper] INFO: STARTING STEP 245
+2019-03-14 11:30:04,354 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-14 11:30:04,548 [alpha_bomb_0_wrapper] INFO: STARTING STEP 246
+2019-03-14 11:30:04,551 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:30:04,748 [alpha_bomb_0_wrapper] INFO: STARTING STEP 247
+2019-03-14 11:30:04,751 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-14 11:30:04,948 [alpha_bomb_0_wrapper] INFO: STARTING STEP 248
+2019-03-14 11:30:04,951 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-14 11:30:05,148 [alpha_bomb_0_wrapper] INFO: STARTING STEP 249
+2019-03-14 11:30:05,151 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:30:05,349 [alpha_bomb_0_wrapper] INFO: STARTING STEP 250
+2019-03-14 11:30:05,353 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-14 11:30:05,549 [alpha_bomb_0_wrapper] INFO: STARTING STEP 251
+2019-03-14 11:30:05,553 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-14 11:30:05,750 [alpha_bomb_0_wrapper] INFO: STARTING STEP 252
+2019-03-14 11:30:05,753 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-14 11:30:05,951 [alpha_bomb_0_wrapper] INFO: STARTING STEP 253
+2019-03-14 11:30:05,956 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-14 11:30:06,151 [alpha_bomb_0_wrapper] INFO: STARTING STEP 254
+2019-03-14 11:30:06,155 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-14 11:30:06,351 [alpha_bomb_0_wrapper] INFO: STARTING STEP 255
+2019-03-14 11:30:06,357 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-14 11:30:06,551 [alpha_bomb_0_wrapper] INFO: STARTING STEP 256
+2019-03-14 11:30:06,556 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-14 11:30:06,751 [alpha_bomb_0_wrapper] INFO: STARTING STEP 257
+2019-03-14 11:30:06,756 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-14 11:30:06,952 [alpha_bomb_0_wrapper] INFO: STARTING STEP 258
+2019-03-14 11:30:06,954 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-14 11:30:07,152 [alpha_bomb_0_wrapper] INFO: STARTING STEP 259
+2019-03-14 11:30:07,161 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.009s of thinking
+2019-03-14 11:30:07,352 [alpha_bomb_0_wrapper] INFO: STARTING STEP 260
+2019-03-14 11:30:07,356 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-14 11:30:07,561 [alpha_bomb_0_wrapper] INFO: Received exit message for round
+2019-03-14 11:30:07,561 [alpha_bomb_0_wrapper] INFO: Round #2 finished
+2019-03-14 11:30:09,634 [alpha_bomb_0_wrapper] INFO: STARTING ROUND #3
+2019-03-14 11:30:09,768 [alpha_bomb_0_wrapper] INFO: STARTING STEP 1
+2019-03-14 11:30:09,779 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.011s of thinking
+2019-03-14 11:30:09,968 [alpha_bomb_0_wrapper] INFO: STARTING STEP 2
+2019-03-14 11:30:09,974 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-14 11:30:10,168 [alpha_bomb_0_wrapper] INFO: STARTING STEP 3
+2019-03-14 11:30:10,174 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-14 11:30:10,370 [alpha_bomb_0_wrapper] INFO: STARTING STEP 4
+2019-03-14 11:30:10,377 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-03-14 11:30:10,570 [alpha_bomb_0_wrapper] INFO: STARTING STEP 5
+2019-03-14 11:30:10,572 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:30:10,770 [alpha_bomb_0_wrapper] INFO: STARTING STEP 6
+2019-03-14 11:30:10,777 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-14 11:30:10,970 [alpha_bomb_0_wrapper] INFO: STARTING STEP 7
+2019-03-14 11:30:10,973 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-14 11:30:11,170 [alpha_bomb_0_wrapper] INFO: STARTING STEP 8
+2019-03-14 11:30:11,173 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-14 11:30:11,373 [alpha_bomb_0_wrapper] INFO: STARTING STEP 9
+2019-03-14 11:30:11,380 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.008s of thinking
+2019-03-14 11:30:11,573 [alpha_bomb_0_wrapper] INFO: STARTING STEP 10
+2019-03-14 11:30:11,577 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-14 11:30:11,773 [alpha_bomb_0_wrapper] INFO: STARTING STEP 11
+2019-03-14 11:30:11,778 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-14 11:30:11,973 [alpha_bomb_0_wrapper] INFO: STARTING STEP 12
+2019-03-14 11:30:11,979 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-14 11:30:12,174 [alpha_bomb_0_wrapper] INFO: STARTING STEP 13
+2019-03-14 11:30:12,178 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:30:12,376 [alpha_bomb_0_wrapper] INFO: STARTING STEP 14
+2019-03-14 11:30:12,382 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-14 11:30:12,574 [alpha_bomb_0_wrapper] INFO: STARTING STEP 15
+2019-03-14 11:30:12,577 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-14 11:30:12,774 [alpha_bomb_0_wrapper] INFO: STARTING STEP 16
+2019-03-14 11:30:12,778 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-14 11:30:12,975 [alpha_bomb_0_wrapper] INFO: STARTING STEP 17
+2019-03-14 11:30:12,984 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.009s of thinking
+2019-03-14 11:30:13,175 [alpha_bomb_0_wrapper] INFO: STARTING STEP 18
+2019-03-14 11:30:13,178 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-14 11:30:13,375 [alpha_bomb_0_wrapper] INFO: STARTING STEP 19
+2019-03-14 11:30:13,378 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:30:13,576 [alpha_bomb_0_wrapper] INFO: STARTING STEP 20
+2019-03-14 11:30:13,582 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-14 11:30:13,776 [alpha_bomb_0_wrapper] INFO: STARTING STEP 21
+2019-03-14 11:30:13,778 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:30:13,976 [alpha_bomb_0_wrapper] INFO: STARTING STEP 22
+2019-03-14 11:30:13,981 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-14 11:30:14,176 [alpha_bomb_0_wrapper] INFO: STARTING STEP 23
+2019-03-14 11:30:14,181 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-03-14 11:30:14,377 [alpha_bomb_0_wrapper] INFO: STARTING STEP 24
+2019-03-14 11:30:14,379 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:30:14,579 [alpha_bomb_0_wrapper] INFO: STARTING STEP 25
+2019-03-14 11:30:14,583 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-14 11:30:14,779 [alpha_bomb_0_wrapper] INFO: STARTING STEP 26
+2019-03-14 11:30:14,781 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-14 11:30:14,979 [alpha_bomb_0_wrapper] INFO: STARTING STEP 27
+2019-03-14 11:30:14,993 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.014s of thinking
+2019-03-14 11:30:15,179 [alpha_bomb_0_wrapper] INFO: STARTING STEP 28
+2019-03-14 11:30:15,192 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.012s of thinking
+2019-03-14 11:30:15,379 [alpha_bomb_0_wrapper] INFO: STARTING STEP 29
+2019-03-14 11:30:15,397 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.018s of thinking
+2019-03-14 11:30:15,580 [alpha_bomb_0_wrapper] INFO: STARTING STEP 30
+2019-03-14 11:30:15,582 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-14 11:30:15,780 [alpha_bomb_0_wrapper] INFO: STARTING STEP 31
+2019-03-14 11:30:15,782 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-14 11:30:15,980 [alpha_bomb_0_wrapper] INFO: STARTING STEP 32
+2019-03-14 11:30:15,993 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.013s of thinking
+2019-03-14 11:30:16,180 [alpha_bomb_0_wrapper] INFO: STARTING STEP 33
+2019-03-14 11:30:16,195 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.014s of thinking
+2019-03-14 11:30:16,380 [alpha_bomb_0_wrapper] INFO: STARTING STEP 34
+2019-03-14 11:30:16,385 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-14 11:30:16,581 [alpha_bomb_0_wrapper] INFO: STARTING STEP 35
+2019-03-14 11:30:16,587 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-14 11:30:16,781 [alpha_bomb_0_wrapper] INFO: STARTING STEP 36
+2019-03-14 11:30:16,784 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-14 11:30:16,981 [alpha_bomb_0_wrapper] INFO: STARTING STEP 37
+2019-03-14 11:30:16,987 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-14 11:30:17,181 [alpha_bomb_0_wrapper] INFO: STARTING STEP 38
+2019-03-14 11:30:17,190 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.009s of thinking
+2019-03-14 11:30:17,382 [alpha_bomb_0_wrapper] INFO: STARTING STEP 39
+2019-03-14 11:30:17,384 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:30:17,582 [alpha_bomb_0_wrapper] INFO: STARTING STEP 40
+2019-03-14 11:30:17,586 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-14 11:30:17,782 [alpha_bomb_0_wrapper] INFO: STARTING STEP 41
+2019-03-14 11:30:17,796 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.014s of thinking
+2019-03-14 11:30:17,982 [alpha_bomb_0_wrapper] INFO: STARTING STEP 42
+2019-03-14 11:30:17,986 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:30:18,183 [alpha_bomb_0_wrapper] INFO: STARTING STEP 43
+2019-03-14 11:30:18,186 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-14 11:30:18,383 [alpha_bomb_0_wrapper] INFO: STARTING STEP 44
+2019-03-14 11:30:18,387 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-14 11:30:18,585 [alpha_bomb_0_wrapper] INFO: STARTING STEP 45
+2019-03-14 11:30:18,605 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.021s of thinking
+2019-03-14 11:30:18,785 [alpha_bomb_0_wrapper] INFO: STARTING STEP 46
+2019-03-14 11:30:18,792 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.007s of thinking
+2019-03-14 11:30:18,985 [alpha_bomb_0_wrapper] INFO: STARTING STEP 47
+2019-03-14 11:30:18,988 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:30:19,185 [alpha_bomb_0_wrapper] INFO: STARTING STEP 48
+2019-03-14 11:30:19,191 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-14 11:30:19,385 [alpha_bomb_0_wrapper] INFO: STARTING STEP 49
+2019-03-14 11:30:19,388 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-14 11:30:19,586 [alpha_bomb_0_wrapper] INFO: STARTING STEP 50
+2019-03-14 11:30:19,590 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-14 11:30:19,786 [alpha_bomb_0_wrapper] INFO: STARTING STEP 51
+2019-03-14 11:30:19,789 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:30:19,986 [alpha_bomb_0_wrapper] INFO: STARTING STEP 52
+2019-03-14 11:30:19,989 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:30:20,188 [alpha_bomb_0_wrapper] INFO: STARTING STEP 53
+2019-03-14 11:30:20,190 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-14 11:30:20,388 [alpha_bomb_0_wrapper] INFO: STARTING STEP 54
+2019-03-14 11:30:20,391 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-14 11:30:20,588 [alpha_bomb_0_wrapper] INFO: STARTING STEP 55
+2019-03-14 11:30:20,604 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.015s of thinking
+2019-03-14 11:30:20,790 [alpha_bomb_0_wrapper] INFO: STARTING STEP 56
+2019-03-14 11:30:20,794 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-14 11:30:20,990 [alpha_bomb_0_wrapper] INFO: STARTING STEP 57
+2019-03-14 11:30:20,993 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-14 11:30:21,190 [alpha_bomb_0_wrapper] INFO: STARTING STEP 58
+2019-03-14 11:30:21,193 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:30:21,390 [alpha_bomb_0_wrapper] INFO: STARTING STEP 59
+2019-03-14 11:30:21,393 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-14 11:30:21,591 [alpha_bomb_0_wrapper] INFO: STARTING STEP 60
+2019-03-14 11:30:21,595 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-14 11:30:21,791 [alpha_bomb_0_wrapper] INFO: STARTING STEP 61
+2019-03-14 11:30:21,797 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-14 11:30:21,991 [alpha_bomb_0_wrapper] INFO: STARTING STEP 62
+2019-03-14 11:30:21,994 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:30:22,191 [alpha_bomb_0_wrapper] INFO: STARTING STEP 63
+2019-03-14 11:30:22,196 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-14 11:30:22,391 [alpha_bomb_0_wrapper] INFO: STARTING STEP 64
+2019-03-14 11:30:22,394 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-14 11:30:22,592 [alpha_bomb_0_wrapper] INFO: STARTING STEP 65
+2019-03-14 11:30:22,597 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-14 11:30:22,792 [alpha_bomb_0_wrapper] INFO: STARTING STEP 66
+2019-03-14 11:30:22,799 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.007s of thinking
+2019-03-14 11:30:22,992 [alpha_bomb_0_wrapper] INFO: STARTING STEP 67
+2019-03-14 11:30:22,996 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-14 11:30:23,192 [alpha_bomb_0_wrapper] INFO: STARTING STEP 68
+2019-03-14 11:30:23,195 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-14 11:30:23,393 [alpha_bomb_0_wrapper] INFO: STARTING STEP 69
+2019-03-14 11:30:23,396 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-14 11:30:23,593 [alpha_bomb_0_wrapper] INFO: STARTING STEP 70
+2019-03-14 11:30:23,595 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-14 11:30:23,793 [alpha_bomb_0_wrapper] INFO: STARTING STEP 71
+2019-03-14 11:30:23,804 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.010s of thinking
+2019-03-14 11:30:23,993 [alpha_bomb_0_wrapper] INFO: STARTING STEP 72
+2019-03-14 11:30:23,999 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-14 11:30:24,194 [alpha_bomb_0_wrapper] INFO: STARTING STEP 73
+2019-03-14 11:30:24,205 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.012s of thinking
+2019-03-14 11:30:24,394 [alpha_bomb_0_wrapper] INFO: STARTING STEP 74
+2019-03-14 11:30:24,410 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.016s of thinking
+2019-03-14 11:30:24,594 [alpha_bomb_0_wrapper] INFO: STARTING STEP 75
+2019-03-14 11:30:24,609 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.015s of thinking
+2019-03-14 11:30:24,794 [alpha_bomb_0_wrapper] INFO: STARTING STEP 76
+2019-03-14 11:30:24,798 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:30:24,995 [alpha_bomb_0_wrapper] INFO: STARTING STEP 77
+2019-03-14 11:30:25,004 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.009s of thinking
+2019-03-14 11:30:25,195 [alpha_bomb_0_wrapper] INFO: STARTING STEP 78
+2019-03-14 11:30:25,199 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-14 11:30:25,395 [alpha_bomb_0_wrapper] INFO: STARTING STEP 79
+2019-03-14 11:30:25,398 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:30:25,595 [alpha_bomb_0_wrapper] INFO: STARTING STEP 80
+2019-03-14 11:30:25,598 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:30:25,796 [alpha_bomb_0_wrapper] INFO: STARTING STEP 81
+2019-03-14 11:30:25,799 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-14 11:30:25,996 [alpha_bomb_0_wrapper] INFO: STARTING STEP 82
+2019-03-14 11:30:25,998 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:30:26,196 [alpha_bomb_0_wrapper] INFO: STARTING STEP 83
+2019-03-14 11:30:26,207 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.011s of thinking
+2019-03-14 11:30:26,398 [alpha_bomb_0_wrapper] INFO: STARTING STEP 84
+2019-03-14 11:30:26,402 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:30:26,598 [alpha_bomb_0_wrapper] INFO: STARTING STEP 85
+2019-03-14 11:30:26,605 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-14 11:30:26,799 [alpha_bomb_0_wrapper] INFO: STARTING STEP 86
+2019-03-14 11:30:26,801 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:30:27,000 [alpha_bomb_0_wrapper] INFO: STARTING STEP 87
+2019-03-14 11:30:27,020 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.020s of thinking
+2019-03-14 11:30:27,199 [alpha_bomb_0_wrapper] INFO: STARTING STEP 88
+2019-03-14 11:30:27,202 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:30:27,399 [alpha_bomb_0_wrapper] INFO: STARTING STEP 89
+2019-03-14 11:30:27,411 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.011s of thinking
+2019-03-14 11:30:27,600 [alpha_bomb_0_wrapper] INFO: STARTING STEP 90
+2019-03-14 11:30:27,603 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:30:27,801 [alpha_bomb_0_wrapper] INFO: STARTING STEP 91
+2019-03-14 11:30:27,803 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:30:28,001 [alpha_bomb_0_wrapper] INFO: STARTING STEP 92
+2019-03-14 11:30:28,003 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:30:28,201 [alpha_bomb_0_wrapper] INFO: STARTING STEP 93
+2019-03-14 11:30:28,207 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-14 11:30:28,401 [alpha_bomb_0_wrapper] INFO: STARTING STEP 94
+2019-03-14 11:30:28,409 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-14 11:30:28,602 [alpha_bomb_0_wrapper] INFO: STARTING STEP 95
+2019-03-14 11:30:28,610 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.008s of thinking
+2019-03-14 11:30:28,802 [alpha_bomb_0_wrapper] INFO: STARTING STEP 96
+2019-03-14 11:30:28,804 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:30:29,002 [alpha_bomb_0_wrapper] INFO: STARTING STEP 97
+2019-03-14 11:30:29,009 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.007s of thinking
+2019-03-14 11:30:29,202 [alpha_bomb_0_wrapper] INFO: STARTING STEP 98
+2019-03-14 11:30:29,209 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-03-14 11:30:29,402 [alpha_bomb_0_wrapper] INFO: STARTING STEP 99
+2019-03-14 11:30:29,406 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-14 11:30:29,603 [alpha_bomb_0_wrapper] INFO: STARTING STEP 100
+2019-03-14 11:30:29,609 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-14 11:30:29,803 [alpha_bomb_0_wrapper] INFO: STARTING STEP 101
+2019-03-14 11:30:29,810 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.007s of thinking
+2019-03-14 11:30:30,003 [alpha_bomb_0_wrapper] INFO: STARTING STEP 102
+2019-03-14 11:30:30,009 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-14 11:30:30,204 [alpha_bomb_0_wrapper] INFO: STARTING STEP 103
+2019-03-14 11:30:30,212 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.008s of thinking
+2019-03-14 11:30:30,405 [alpha_bomb_0_wrapper] INFO: STARTING STEP 104
+2019-03-14 11:30:30,407 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:30:30,605 [alpha_bomb_0_wrapper] INFO: STARTING STEP 105
+2019-03-14 11:30:30,615 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.010s of thinking
+2019-03-14 11:30:30,806 [alpha_bomb_0_wrapper] INFO: STARTING STEP 106
+2019-03-14 11:30:30,812 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-14 11:30:31,006 [alpha_bomb_0_wrapper] INFO: STARTING STEP 107
+2019-03-14 11:30:31,009 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-14 11:30:31,206 [alpha_bomb_0_wrapper] INFO: STARTING STEP 108
+2019-03-14 11:30:31,209 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:30:31,407 [alpha_bomb_0_wrapper] INFO: STARTING STEP 109
+2019-03-14 11:30:31,426 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.019s of thinking
+2019-03-14 11:30:31,607 [alpha_bomb_0_wrapper] INFO: STARTING STEP 110
+2019-03-14 11:30:31,609 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:30:31,807 [alpha_bomb_0_wrapper] INFO: STARTING STEP 111
+2019-03-14 11:30:31,811 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-14 11:30:32,007 [alpha_bomb_0_wrapper] INFO: STARTING STEP 112
+2019-03-14 11:30:32,012 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-03-14 11:30:32,207 [alpha_bomb_0_wrapper] INFO: STARTING STEP 113
+2019-03-14 11:30:32,216 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.008s of thinking
+2019-03-14 11:30:32,408 [alpha_bomb_0_wrapper] INFO: STARTING STEP 114
+2019-03-14 11:30:32,411 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:30:32,608 [alpha_bomb_0_wrapper] INFO: STARTING STEP 115
+2019-03-14 11:30:32,611 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-14 11:30:32,808 [alpha_bomb_0_wrapper] INFO: STARTING STEP 116
+2019-03-14 11:30:32,813 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-14 11:30:33,008 [alpha_bomb_0_wrapper] INFO: STARTING STEP 117
+2019-03-14 11:30:33,014 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-14 11:30:33,208 [alpha_bomb_0_wrapper] INFO: STARTING STEP 118
+2019-03-14 11:30:33,215 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-03-14 11:30:33,409 [alpha_bomb_0_wrapper] INFO: STARTING STEP 119
+2019-03-14 11:30:33,414 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-14 11:30:33,609 [alpha_bomb_0_wrapper] INFO: STARTING STEP 120
+2019-03-14 11:30:33,613 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-14 11:30:33,811 [alpha_bomb_0_wrapper] INFO: STARTING STEP 121
+2019-03-14 11:30:33,819 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.008s of thinking
+2019-03-14 11:30:34,011 [alpha_bomb_0_wrapper] INFO: STARTING STEP 122
+2019-03-14 11:30:34,014 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:30:34,211 [alpha_bomb_0_wrapper] INFO: STARTING STEP 123
+2019-03-14 11:30:34,214 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:30:34,411 [alpha_bomb_0_wrapper] INFO: STARTING STEP 124
+2019-03-14 11:30:34,414 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:30:34,612 [alpha_bomb_0_wrapper] INFO: STARTING STEP 125
+2019-03-14 11:30:34,614 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:30:34,814 [alpha_bomb_0_wrapper] INFO: STARTING STEP 126
+2019-03-14 11:30:34,817 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:30:35,014 [alpha_bomb_0_wrapper] INFO: STARTING STEP 127
+2019-03-14 11:30:35,017 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:30:35,214 [alpha_bomb_0_wrapper] INFO: STARTING STEP 128
+2019-03-14 11:30:35,217 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:30:35,415 [alpha_bomb_0_wrapper] INFO: STARTING STEP 129
+2019-03-14 11:30:35,417 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:30:35,615 [alpha_bomb_0_wrapper] INFO: STARTING STEP 130
+2019-03-14 11:30:35,617 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:30:35,815 [alpha_bomb_0_wrapper] INFO: STARTING STEP 131
+2019-03-14 11:30:35,818 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:30:36,015 [alpha_bomb_0_wrapper] INFO: STARTING STEP 132
+2019-03-14 11:30:36,018 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:30:36,215 [alpha_bomb_0_wrapper] INFO: STARTING STEP 133
+2019-03-14 11:30:36,222 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.007s of thinking
+2019-03-14 11:30:36,417 [alpha_bomb_0_wrapper] INFO: STARTING STEP 134
+2019-03-14 11:30:36,423 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-14 11:30:36,617 [alpha_bomb_0_wrapper] INFO: STARTING STEP 135
+2019-03-14 11:30:36,623 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-03-14 11:30:36,817 [alpha_bomb_0_wrapper] INFO: STARTING STEP 136
+2019-03-14 11:30:36,820 [alpha_bomb_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-14 11:30:37,018 [alpha_bomb_0_wrapper] INFO: STARTING STEP 137
+2019-03-14 11:30:37,021 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:30:37,218 [alpha_bomb_0_wrapper] INFO: STARTING STEP 138
+2019-03-14 11:30:37,221 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-14 11:30:37,419 [alpha_bomb_0_wrapper] INFO: STARTING STEP 139
+2019-03-14 11:30:37,424 [alpha_bomb_0_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-03-14 11:30:37,619 [alpha_bomb_0_wrapper] INFO: STARTING STEP 140
+2019-03-14 11:30:37,626 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-14 11:30:37,819 [alpha_bomb_0_wrapper] INFO: STARTING STEP 141
+2019-03-14 11:30:37,822 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:30:38,020 [alpha_bomb_0_wrapper] INFO: STARTING STEP 142
+2019-03-14 11:30:38,022 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:30:38,220 [alpha_bomb_0_wrapper] INFO: STARTING STEP 143
+2019-03-14 11:30:38,223 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-14 11:30:38,420 [alpha_bomb_0_wrapper] INFO: STARTING STEP 144
+2019-03-14 11:30:38,439 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.017s of thinking
+2019-03-14 11:30:38,620 [alpha_bomb_0_wrapper] INFO: STARTING STEP 145
+2019-03-14 11:30:38,625 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-14 11:30:38,821 [alpha_bomb_0_wrapper] INFO: STARTING STEP 146
+2019-03-14 11:30:38,823 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:30:39,021 [alpha_bomb_0_wrapper] INFO: STARTING STEP 147
+2019-03-14 11:30:39,027 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-14 11:30:39,221 [alpha_bomb_0_wrapper] INFO: STARTING STEP 148
+2019-03-14 11:30:39,224 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-14 11:30:39,421 [alpha_bomb_0_wrapper] INFO: STARTING STEP 149
+2019-03-14 11:30:39,424 [alpha_bomb_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-14 11:30:39,622 [alpha_bomb_0_wrapper] INFO: STARTING STEP 150
+2019-03-14 11:30:39,624 [alpha_bomb_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-14 11:30:39,775 [alpha_bomb_0_wrapper] INFO: Received exit message for round
+2019-03-14 11:30:39,775 [alpha_bomb_0_wrapper] INFO: Round #3 finished
+2019-03-14 11:30:39,775 [alpha_bomb_0_wrapper] INFO: Received global exit message
+2019-03-14 11:30:39,775 [alpha_bomb_0_wrapper] INFO: SHUT DOWN
